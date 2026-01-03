@@ -3,7 +3,7 @@ Verás mi trabajo y mi proceso de creacion.
 <h1 align="center">Hola👋 mi nombre es juan andres.</h1>
 <h3 align="center">Diseñador UI/UX, Desarrolador Web y Desarrollador Frontend</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame y Sigueme:</h3>
 <p align="left">
 <a href="https://instagram.com/juan.guauque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juan.guauque" height="30" width="40" /></a>
 </p>

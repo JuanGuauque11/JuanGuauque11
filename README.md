@@ -18,7 +18,7 @@ Fork on Github
 
 ###
 
-<h2 align="left">😎 Sobre mi<br><br>Mi nombre es juan andres, soy diesñador UI/UX, desarrollador web, y desarrollador frontend. tengo mas de un año de experiencia como diseñador UI/UX, en proceso como desarrollador web y frontdev.</h2>
+<h2 align="left">😎 Sobre mi<br><br>Mi nombre es juan andres, soy diesñador UI/UX, tengo mas de un año de experiencia como diseñador UI/UX, en proceso como desarrollador web y frontdev.</h2>
 
 ###
 

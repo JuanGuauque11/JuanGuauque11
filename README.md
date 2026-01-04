@@ -1,9 +1,5 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=#00dde5&fontSize=74&fontColor=#00dde5&fontAlign=99999&fontAlignY=50&rotate=6&stroke=-&animation=fadeIn&descSize=22&descAlign=50&descAlignY=50&textBg=false&color=#00dde5"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=#00dde5&fontSize=74&fontColor=#00dde5&fontAlign=99999&fontAlignY=50&rotate=6&stroke=-&animation=blink&descSize=22&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
 ###
@@ -18,7 +14,7 @@ Fork on Github
 
 ###
 
-<h2 align="left">😎 Sobre mi<br><br>Mi nombre es juan andres, soy diesñador UI/UX, tengo mas de un año de experiencia como diseñador UI/UX, en proceso como desarrollador web y frontdev.</h2>
+<h2 align="left">😎 Sobre mi<br><br>Mi nombre es juan andres, soy diesñador UI/UX, desarrollador web, y desarrollador frontend. tengo mas de un año de experiencia como diseñador UI/UX, en proceso como desarrollador web y frontdev.</h2>
 
 ###
 
@@ -65,7 +61,11 @@ Fork on Github
 
 ###
 
-<img src="https://raw.githubusercontent.com/JuanGuauque11/JuanGuauque11/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanGuauque11/JuanGuauque11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanGuauque11/JuanGuauque11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JuanGuauque11/JuanGuauque11/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 

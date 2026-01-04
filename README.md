@@ -1,18 +1,28 @@
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=#00dde5&fontSize=74&fontColor=#00dde5&fontAlign=99999&fontAlignY=50&rotate=6&stroke=-&animation=fadeIn&descSize=22&descAlign=50&descAlignY=50&textBg=false&color=#00dde5"  />
 </div>
 
 ###
 
-<h1 align="left">HOLA! 👋</h1>
+<h1 align="center">HOLA! 👋</h1>
 
 ###
 
-<h4 align="left">Mi nombre es juan andres, soy diesñador UI/UX, desarrollador web, y desarrollador frontend.</h4>
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BzZHl0bTRhMjUydjY2cXVzcHJvaGU3cjlwcHFvY3czMnM3N3NzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+</div>
 
 ###
 
-<p align="left"></p>
+<h2 align="left">😎 Sobre mi<br><br>Mi nombre es juan andres, soy diesñador UI/UX, desarrollador web, y desarrollador frontend. tengo mas de un año de experiencia como diseñador UI/UX, en proceso como desarrollador web y frontdev.</h2>
+
+###
+
+<h3 align="left">⛓️‍💥🤳Redes y Contacto</h3>
 
 ###
 
@@ -24,6 +34,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">🧑‍💻 Tecnologias y Herramientas</h3>
 
 ###
 
